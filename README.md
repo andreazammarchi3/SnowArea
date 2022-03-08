@@ -1,2 +1,2 @@
 # SkiCampiglio
-Progetto per Basi di Dati. Simulazione gestionale comprensorio sciistico di Madonna di Campiglio
+Progetto per Basi di Dati. Simulazione gestionale di un qualsiasi comprensorio sciistico.
